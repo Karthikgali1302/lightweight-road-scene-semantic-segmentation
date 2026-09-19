@@ -138,7 +138,7 @@ The primary model-selection metric is **foreground mIoU**, because the dataset c
 
 ```text
 road_segmentation_outputs/
-├── checkpoints/   # Best saved weights for each model
+├
 ├── figures/       # Dataset charts, performance figures and predictions
 ├── tables/        # Dataset manifest and evaluation CSV files
 └── deployment/    # Selected checkpoint, ONNX model and metadata
